@@ -2,6 +2,7 @@
 # 因数据集涉及到隐私,如需要请联系wanggang userbean@outlook.com
 
 本项目利用 YOLO-Pose 姿态估计算法实现实时摔倒检测功能。通过 YOLO-Pose 模型精准识别视频 / 图像中人体的关键骨骼关节点（如头部、肩膀、四肢等），提取人体姿态特征后，结合姿态分析算法判断是否存在摔倒行为。系统支持摄像头实时流、监控视频及单张图像输入，可快速输出摔倒预警结果，适用于养老院监护、工业安全监控、居家老人安全防护等场景，为危险行为及时干预提供智能化支持。
+<img width="1512" height="1588" alt="image" src="https://github.com/user-attachments/assets/7fe54ca6-15cc-40b0-828a-da0517cbc00c" />
 
 
 https://github.com/user-attachments/assets/2c894a47-5679-4560-86a1-6c23fefa35f9
